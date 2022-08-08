@@ -1,0 +1,53 @@
+table {
+    min-height: 600px;
+    table-layout: fixed;
+}
+table td p{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    margin-bottom: 0px;
+    
+}
+table td {
+    height: 15vh;
+}
+/* table td p:nth-child(even){
+    color: black;
+    background-color: #bcb8b6;
+    
+}
+
+table td p:nth-child(odd){
+    
+    background-color: #7a716e;
+    color: white;
+
+    
+} */
+table td p:hover{
+    color: white;
+    background-color: rgb(128, 128, 128);
+    
+}
+.dateTag:hover {
+    text-align: center;
+    background-color: #e0e0eb;
+
+}
+.study {
+    background-color: #fdc3af;
+    color: #d86d4a;
+
+}
+.work {
+    background-color: #abd2fd;
+    color: #4589d6;
+
+}
+.home {
+    background-color: #b4fd9e;
+    color: #55c533;
+
+}
