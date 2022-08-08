@@ -1,5 +1,5 @@
 # CSE330
-Ruimin Gu-501386-RuiminGu
+
 
 Chenjie Xiong-499131-JaneChenjie
 
