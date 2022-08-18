@@ -1,11 +1,11 @@
-# CSE330
+## CSE330
 
-## Members
+# Members
 - Chenjie Xiong
 - Ruimin Gu
-## Link
-- [Calendar website]: <http://ec2-3-86-105-189.compute-1.amazonaws.com/~Jane/module5-group-module5-499131-501386/calender.html>
-## Functionality
+# Link
+- [Calendar website](http://ec2-3-86-105-189.compute-1.amazonaws.com/~Jane/module5-group-module5-499131-501386/calender.html)
+# Functionality
 - **Intro**:	Developed a calendar website to create, modify, and delete events on a dynamic monthly grid layout.
 - **Add event by date**: Users can add new event by clicking date in the calendar.
 - **Tag and category**: Users can tag an event with a particular category of study, work and home, and hide or show those tags in the calendar view using the select button on the top bar.
